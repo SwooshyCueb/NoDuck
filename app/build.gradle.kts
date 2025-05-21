@@ -10,8 +10,8 @@ android {
         applicationId = "zone.swoosh.noduck"
         minSdk = 26
         targetSdk = 34
-        versionCode = 2
-        versionName = "0.2"
+        versionCode = 24
+        versionName = "0.3.21"
     }
 
     buildTypes {
